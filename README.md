@@ -1,37 +1,52 @@
-## about me
+# 👋 Hi, I’m Semira Tesfai
 
-My name is Semira Tesfai. I am looking to go into Computer Science with MIT.
+I’m a multidisciplinary professional with a background in business, consulting, and community-focused work, currently building my technical skill set through the **MIT Emerging Talent** program.
 
-## Objective
+I’m focused on practical problem-solving, collaborative development, and mission-driven work that supports immigrant and refugee communities in Canada.
 
-Aspiring IT student, eager to learn and grow within the
+📫 **Email:** semiratesfai11@gmail.com  
+🌐 **Website:** https://semiratesfai.github.io *(coming soon)*
 
-MIT Emerging Talent program.
+---
 
-Seeking guidance from mentors, staff, and
+## 🎯 Objective
+To grow into an early-career role in technology by strengthening my foundations in software development, learning from mentors, and building real-world projects that create meaningful impact.
 
-teachers to develop skills in IT and
+---
 
-secure work in the field. Committed
+## 🛠 Skills & Strengths
 
-to leveraging strong interpersonal abilities and
+### **Technical (Foundations)**
+- Python (foundations)
+- Computational thinking & problem decomposition
+- Debugging and testing mindset
+- Git & GitHub collaboration
+- Clear documentation
 
-academic knowledge to achieve
+### **Professional**
+- Stakeholder communication
+- Team leadership and collaboration
+- Client relationship building
+- Attention to detail and handling confidential information
 
-professional success in the IT field.
+---
 
-## Skills
+## 📌 Projects
 
-Strong interpersonal skills and ability to build
+### **ThriveBridge.ca**
+*A mission-driven platform in development*
 
-relationships with clients
+- Founder / Project Lead  
+- Focused on supporting immigrants and refugees navigating resettlement in Canada  
+- Emphasis on resource pathways, service access, and user-centered design  
+- Website: https://www.thrivebridge.ca
 
-Excellent communication skills, both written and oral
+*(More project links will be added here as they become available)*
 
-Ability to manage and lead a team
+---
 
-Strong attention to detail and ability to
-
-handle confidential information
-
-Proficient in Microsoft Office and Salesforce
+## 🎓 Education & Credentials
+- **MIT Emerging Talent** — One-year certificate program (Foundations Track + continued learning)  
+- **Outskill** — Generative AI Mastermind (Certificate of Completion)  
+- **Registered Canadian Immigration Consultant (RCIC)**  
+- **Rotman Commerce, BCom** — Finance & Economics (Specialist)
